@@ -1,5 +1,5 @@
 # GhostRyZeOS
-Nuestro Sistema Operativo Basado en Debian Linux : <a class="" href="https://ghostryze.surge.sh/index.html">Descargar</a>
+Nuestro Sistema Operativo Basado en Arch Linux : <a class="" href="https://ghostryze.surge.sh/index.html">Descargar</a>
 
 # Creadores
 By REDGHOST By RyZe ツ By sky!
